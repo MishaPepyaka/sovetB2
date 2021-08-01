@@ -1524,3 +1524,9 @@ section {
     display: flex;
     justify-content: center;
 }
+
+.main-pb {
+    width: 90%;
+    height: 3rem;
+    border-radius: 3rem;
+}
