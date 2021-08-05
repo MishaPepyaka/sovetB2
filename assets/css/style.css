@@ -1646,3 +1646,8 @@ section {
     max-height: 50%;
     max-width: 50%;
 }
+
+.align-left {
+    text-align: left !important;
+    margin-left: 0.5rem;
+}
